@@ -8,3 +8,4 @@ requests>=2.21.0
 setuptools>=39.0.1
 six>=1.11.0
 tabulate>=0.8.3
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
