@@ -1,4 +1,4 @@
-Django>=2.2.1
+Django>=4.2.21
 Monsoon>=0.1.88
 matplotlib>=3.0.3
 mock>=3.0.3
