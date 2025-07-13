@@ -8,3 +8,5 @@ requests>=2.21.0
 setuptools>=39.0.1
 six>=1.11.0
 tabulate>=0.8.3
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
