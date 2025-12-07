@@ -1,4 +1,4 @@
-Django>=2.2.1
+Django>=4.2.27
 Monsoon>=0.1.88
 matplotlib>=3.0.3
 mock>=3.0.3
@@ -8,3 +8,5 @@ requests>=2.21.0
 setuptools>=39.0.1
 six>=1.11.0
 tabulate>=0.8.3
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
